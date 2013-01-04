@@ -1,0 +1,20 @@
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\bin\Debug\TimeTable.exe
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\bin\Debug\TimeTable.pdb
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\obj\Debug\ResolveAssemblyReference.cache
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.Cache
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\obj\Debug\TimeTable.exe
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\obj\Debug\TimeTable.pdb
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\obj\Debug\TimeTable.LoginForm.resources
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\obj\Debug\TimeTable.MainForm.resources
+D:\учёба\5 семестр\БСБД\KYPCA4\TimeTable\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\bin\Debug\TimeTable.exe.config
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\obj\Debug\TimeTable.exe
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\obj\Debug\TimeTable.pdb
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\bin\Debug\TimeTable.exe
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\bin\Debug\TimeTable.pdb
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\obj\Debug\TimeTable.LoginForm.resources
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\obj\Debug\TimeTable.MainForm.resources
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\obj\Debug\TimeTable.Properties.Resources.resources
+C:\Users\пк\Documents\GitHub\autogentimetable.git\c-sharp\TimeTable\obj\Debug\TimeTable.csproj.GenerateResource.Cache
